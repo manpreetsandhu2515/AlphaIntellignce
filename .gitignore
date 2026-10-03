@@ -1,0 +1,28 @@
+# Environment & secrets — NEVER commit these
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Streamlit cache
+.streamlit/
+
+# macOS
+.DS_Store
+
+# FAISS index files (rebuilt at runtime)
+*.faiss
+*.pkl
+
+# SQLite database files (rebuilt at runtime)
+*.db
