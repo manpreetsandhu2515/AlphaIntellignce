@@ -1,5 +1,4 @@
 # Alpha Intelligence
-### Month 1 Capstone — AI Engineering Bootcamp
 
 A unified intelligence dashboard for quantitative analysts. Type one question and the AI simultaneously queries a **structured SQL database** (S&P 500 financials) and an **unstructured vector store** (Q4 earnings call transcripts), then fuses both results into a single executive summary.
 
